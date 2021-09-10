@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Content/Blend.qml</file>
+        <file>Content/BrightnessContrast.qml</file>
+        <file>Content/ColorOverlay.qml</file>
+        <file>Content/Colorize.qml</file>
+        <file>Content/ConicalGradient.qml</file>
+        <file>Content/Desaturate.qml</file>
+        <file>Content/DirectionalBlur.qml</file>
+        <file>Content/Displace.qml</file>
+        <file>Content/DropShadow.qml</file>
+        <file>Content/FastBlur.qml</file>
+        <file>Content/GammaAdjust.qml</file>
+        <file>Content/GaussianBlur.qml</file>
+        <file>Content/Glow.qml</file>
+        <file>Content/HueSaturation.qml</file>
+        <file>Content/InnerShadow.qml</file>
+        <file>Content/LevelAdjust.qml</file>
+        <file>Content/LinearGradient.qml</file>
+        <file>Content/MaskedBlur.qml</file>
+        <file>Content/OpacityMask.qml</file>
+        <file>Content/RadialBlur.qml</file>
+        <file>Content/RadialGradient.qml</file>
+        <file>Content/RectangularGlow.qml</file>
+        <file>Content/RecursiveBlur.qml</file>
+        <file>Content/ThresholdMask.qml</file>
+        <file>Content/ZoomBlur.qml</file>
+    </qresource>
+</RCC>
