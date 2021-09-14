@@ -57,7 +57,7 @@ Rectangle {
                 maximumValue: 999
                 decimals: 0
                 stepSize: 1
-                value: spinbox_radius.value*2 + 1
+                value: 17
             }
         }
 
