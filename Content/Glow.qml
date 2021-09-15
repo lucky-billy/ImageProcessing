@@ -9,7 +9,7 @@ Rectangle {
     Image {
         id: sourceImage
         x: 10; y: 10
-        sourceSize: Qt.size(430, 300)
+        sourceSize: Qt.size(256, 256)
         source: "qrc:/Image/material/19.png"
         smooth: true
     }

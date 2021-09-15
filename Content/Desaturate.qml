@@ -9,7 +9,7 @@ Rectangle {
     Image {
         id: sourceImage
         x: 10; y: 10
-        sourceSize: Qt.size(430, 300)
+        sourceSize: Qt.size(480, 270)
         source: "file:///D:/Qt/ImageProcessing/Image/wallpaper/3.jpg"
         smooth: true
     }
