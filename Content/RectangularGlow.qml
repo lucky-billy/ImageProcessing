@@ -8,7 +8,7 @@ Rectangle {
     // 源
     Image {
         id: sourceImage
-        x: 10; y: 30
+        x: 10; y: 10
         sourceSize: Qt.size(430, 300)
         source: "file:///D:/Qt/ImageProcessing/Image/wallpaper/70.jpg"
         smooth: true
@@ -103,7 +103,7 @@ Rectangle {
         id: glow
         anchors.left: sourceImage.left
         anchors.top: sourceImage.bottom
-        anchors.topMargin: 30
+        anchors.topMargin: 20
         sourceSize: Qt.size(430, 300)
         source: "file:///D:/Qt/ImageProcessing/Image/wallpaper/70.jpg"
         smooth: true
